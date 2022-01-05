@@ -18,6 +18,7 @@ section{
 .cobi-leka{
     width: 50%;
     padding-left: 5%;
+  
 }
 .cobi-leka img{
     width: 60%;
@@ -33,9 +34,13 @@ section{
 .back-shape{
     background-image: url(images/shapes/shape-7.png);
     background-repeat: no-repeat;
+    padding-bottom: 2%;
 }
 h3{
     color: wheat;
+}
+#moddom{
+    text-align: center;
 }
 
 .section img{
@@ -48,8 +53,8 @@ h3{
     background-color: burlywood;
     border: gray solid;
     border-radius: 10px;
-    padding-left: 10px;
-    padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 5%;
     box-shadow:grey 10px 10px 10px ;
 }
 .dvd{
@@ -57,14 +62,30 @@ h3{
     border:grey solid;
     border-radius: 10px;
     box-shadow:gray 10px 10px 10px;
-    padding-left: 10px;
-    padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 5%;
 }
 .xyz{
     background-color: lightseagreen;
     border: gray solid;
     border-radius: 10px;
-    padding-left: 10px;
-    padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 5%;
     box-shadow:grey 10px 10px 10px ;
+}
+#second-part{
+    display: flex;
+    padding-right: 10%;
+    
+    padding-left: 10%;
+    
+    
+}
+#second-part img{
+    width: 50%;
+    margin: 10%;
+    padding: 10px;
+}
+#border{
+    border-left: rgb(212, 10, 179) solid 5px;
 }
