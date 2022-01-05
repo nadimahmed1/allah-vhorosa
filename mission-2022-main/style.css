@@ -1,0 +1,36 @@
+span{
+    color: darkmagenta;
+}
+body{
+    font-family: 'Anton', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+}
+.cobi-leka{
+    width: 50%;
+    padding-left: 5%;
+}
+.cobi-leka img{
+    width: 60%;
+}
+.explore-button{
+    text-decoration: none;
+    background-color: rgb(173, 173, 4);
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+.back-shape{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+}
