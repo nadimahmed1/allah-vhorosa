@@ -111,5 +111,22 @@ h3{
 .back-ground{
     background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
+    padding-bottom: 10%;
+    
+    
 }
-
+.fifth img{
+    width: 60%;
+}
+.fifth{
+    padding-top: 10%;
+}
+.slow{
+    padding-left: 10%;
+}
+.fifth{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    
+    background-position: bottom;
+}
