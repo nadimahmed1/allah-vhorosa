@@ -15,12 +15,12 @@ h1{
 section{
     display: flex;
 }
-.cobi-leka{
+.pic-text{
     width: 50%;
     padding-left: 5%;
   
 }
-.cobi-leka img{
+.pic-text img{
     width: 60%;
 }
 .explore-button{
@@ -31,19 +31,20 @@ section{
     color: whitesmoke;
     font-weight: 500;
 }
-.back-shape{
+.focoused{
     background-image: url(images/shapes/shape-7.png);
     background-repeat: no-repeat;
-    padding-bottom: 2%;
+    padding-bottom: 5%;
 }
+
 h3{
-    color: wheat;
+    color:silver;
 }
 #moddom{
     text-align: center;
 }
 
-.section img{
+.mission-vission img{
     width: 20%;
     display: flex;
     padding-left: 10%;
@@ -88,9 +89,10 @@ h3{
 
 }
 #border{
-    border-left: rgb(212, 10, 179) solid 5px;
+    border-left: rgb(139, 6, 46) solid 5px;
+    border-radius: 2px;
 }
-.section{
+.mission-vission{
     padding-top: 10px;
     padding-bottom: 10%;
 }
@@ -104,46 +106,51 @@ h3{
     display: flex;
 
 }
-.nadim{
+.lorem{
     padding-right: 20%;
     padding-left: 10%;
 }
-.back-ground{
+.develop{
     background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
-    padding-bottom: 10%;
-    
-    
+    padding-bottom: 10%;   
 }
-.fifth img{
+.global img{
     width: 60%;
 }
-.fifth{
+.global{
     padding-top: 10%;
+
 }
-.slow{
+.know{
     padding-left: 10%;
 }
-.fifth{
+.global{
     background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
     
     background-position: bottom;
     padding-bottom: 10%;
 }
-.last img{
+.global img{
+    box-shadow: darkgray 10px 10px 10px 10px ;
+}
+.last-img img{
     width: 50%;
-    padding-left: 15%;
+    padding-left: 0%;
+   
+    box-shadow: gray 10px 10px 10px 10px;
+    
     
     
 }
-.least{
-    padding-right: 15%;
+.web{
+    padding-right: 25%;
 
 }
-.ahmed{
-    background-image: url(images/shapes/shape-3.png);
-    background-repeat: no-repeat;
+.smart{
+    background-image: url(images/shapes/shape-4.png);
+    
     background-position: right;
     border-radius: 20%;
     padding-top: 5%;
