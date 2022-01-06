@@ -129,4 +129,25 @@ h3{
     background-repeat: no-repeat;
     
     background-position: bottom;
+    padding-bottom: 10%;
+}
+.last img{
+    width: 50%;
+    padding-left: 15%;
+    
+    
+}
+.least{
+    padding-right: 15%;
+
+}
+.ahmed{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    border-radius: 20%;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    
+    
 }
